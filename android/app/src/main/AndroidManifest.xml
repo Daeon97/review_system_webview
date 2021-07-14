@@ -1,7 +1,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.online.review.system.review_system_webview">
    <application
-        android:label="review_system_webview"
+        android:label="ReviewX"
         android:icon="@mipmap/ic_launcher">
         <activity
             android:name=".MainActivity"

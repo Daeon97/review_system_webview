@@ -35,7 +35,7 @@ class _SplashScreenState extends State<SplashScreen> {
                   ),
                   Padding(
                     padding: const EdgeInsets.only(
-                      top: 16.0,
+                      top: 32.0,
                     ),
                     child: ElevatedButton(
                       style: ButtonStyle(
