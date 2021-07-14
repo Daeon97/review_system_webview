@@ -1,5 +1,8 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.online.review.system.review_system_webview">
+
+   <uses-permission android:name="android.permission.INTERNET"/>
+
    <application
         android:label="ReviewX"
         android:icon="@mipmap/ic_launcher">
